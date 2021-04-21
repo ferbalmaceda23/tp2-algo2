@@ -13,6 +13,8 @@ Se brinda un archivo de gimnasios y uno de jugador para la ejecucion del juego.
 
 COMPILACION Y EJECUCION:
 
+[SOLO CORRE DE MANERA CORRECTA EN UNA TERMINAL DE LINUX QUE TENGA GCC, MAKEFILE Y VALGRIND INSTALADOS]
+
 Para la compilacion y ejecucion se ofrece un archivo makefile:
 
     •lINEA DE COMANDO PARA EJECUTAR EL JUEGO:
